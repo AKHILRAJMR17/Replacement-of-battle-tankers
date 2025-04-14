@@ -1,2 +1,2 @@
-# Replacement-of-battle-tankers
-Java-based application integrating graph theory and AR for real-time military tanker replacement.
+# Replacement-of-battle-tankers-using-java
+A console based java application to replace the defected battle tankers in military.
